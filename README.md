@@ -2,8 +2,6 @@
 
 - 🔭 Hoje atuo full-stack
 - 🌱 Estudando react.js e javascript
-- 📫 contate-me no email: jefferson.crn@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/Caelest1s"/>
