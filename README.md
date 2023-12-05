@@ -1,10 +1,10 @@
-## Oii, que bom te ver por aqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/><br>
+## Oi, que bom te ver por aqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/><br>
 
-#### Eu sou o <strong>Jefferson</strong>,<br>
+#### Eu sou o <strong>Jefferson</strong>.<br>
 #### Gosto de resolver desafios usando tecnologia.
 #### Do desenvolvimento backend utilizando Java.
 #### Ao frontend com React.JS, 
-#### Hoje <strong>desenvolvedor full-stack</strong>💙
+#### Hoje <strong>desenvolvedor full-stack</strong>.💙
 
 <div align="center" style="margin-bottom:100px">
     <img width=50% align="center" align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&theme=dracula&show_icons=true" />
@@ -46,6 +46,12 @@
 
 &nbsp;
 &nbsp;
+
+### Repositório
+
+<a href="https://github.com/Caelest1s?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
 
 ## Contacts:
 
