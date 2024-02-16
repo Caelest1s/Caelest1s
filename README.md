@@ -2,9 +2,8 @@
 
 #### Eu sou o <strong>Jefferson</strong>.<br>
 #### Gosto de resolver desafios usando tecnologia.
-#### Do desenvolvimento backend utilizando Java.
-#### Ao frontend com React.JS, 
-#### Hoje <strong>desenvolvedor full-stack</strong>.💙
+#### Do desenvolvimento backend utilizando <strong>Java + Spring Boot</strong>.
+#### Ao frontend com <strong>HTML, CSS e React.JS</strong> 💙 
 
 <div align="center" style="margin-bottom:100px">
     <img width=50% align="center" align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&theme=dracula&show_icons=true" />
