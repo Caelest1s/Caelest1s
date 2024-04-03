@@ -4,7 +4,7 @@
 #### Gosto de resolver desafios usando tecnologia.
 #### Do desenvolvimento backend utilizando <strong>Java + Spring Boot</strong>.
 #### Ao frontend com <strong>HTML, CSS e React.JS</strong> 💙 
-
+<br/>
 <div align="center" style="margin-bottom:500px">
     <img width=50% heigth=30 align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&theme=dracula&show_icons=true" />
     <br/><br/>
