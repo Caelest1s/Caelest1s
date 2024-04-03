@@ -5,15 +5,15 @@
 #### Do desenvolvimento backend utilizando <strong>Java + Spring Boot</strong>.
 #### Ao frontend com <strong>HTML, CSS e React.JS</strong> 💙 
 
-<div align="center" style="margin-bottom:100px">
-    <img width=50% align="center" align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&theme=dracula&show_icons=true" />
-    <img width=48% align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caelest1s&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-    <img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=caelest1s&theme=radical&mode=weekly" />
+<div align="center" style="margin-bottom:500px">
+    <img width=50% heigth=30 align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&theme=dracula&show_icons=true" />
+    <br/><br/>
+    <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caelest1s&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+    <br/><br/>
+    <img width=50% heigth=50% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=caelest1s&theme=radical&mode=weekly" />
 </div>
 
 ##
-
-<div  align="center" style="margin-bottom:100px"></div>
 
 ## My Skills
 
