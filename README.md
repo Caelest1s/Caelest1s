@@ -1,9 +1,9 @@
 ## Oi, que bom te ver por aqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/><br>
 
-#### Eu sou o <strong>Jefferson</strong>.<br>
-#### Gosto de resolver desafios usando tecnologia.
-#### Do desenvolvimento backend utilizando <strong>Java + Spring Boot</strong>.
-#### Ao frontend com <strong>HTML, CSS e React.JS</strong> 💙 
+#### Eu sou o <strong>Jefferson</strong><br>
+#### Gosto de resolver desafios usando tecnologia
+#### no backend utilizando <strong>Java + Spring</strong> :heart:
+#### ao front com <strong> React, HTML e CSS</strong>
 <br/>
 <div align="center" style="margin-bottom:500px">
     <img width=50% heigth=30 align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&show_icons=true&theme=ambient_gradient" />
@@ -17,7 +17,7 @@
 
 ## My Skills
 
-#### Main Stack:
+#### Main Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
@@ -27,17 +27,17 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Databases:
+#### Databases
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Studying in this moment
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-#### Workstation Tools:
+#### Workstation Tools
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 <!-- Comments
@@ -53,7 +53,7 @@
 </div>&nbsp;&nbsp;
 <br>
 
-## Contacts:
+## Contacts
 
 <div> 
     <a href="https://www.linkedin.com/in/caelestis/" target="_blank">
