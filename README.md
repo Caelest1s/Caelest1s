@@ -8,7 +8,7 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
     formado em Sistemas de Informação pela Universidade Católica (UCB).<br />
     Estou sempre buscando me aprimorar, seja: criando um projeto, assistindo a um vídeo ou até mesmo lendo um livro. <br />
     <div align="left">
-        Estar atualizado <i>é o mesmo que me sentir vivo e por essa personalidade foi um match instantâneo que descobrir com TI</i>.
+        Estar atualizado <i>é o mesmo que me sentir vivo e por essa personalidade foi um match que descobrir com TI</i>.
     </div>
 </p>
 
