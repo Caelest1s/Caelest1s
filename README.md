@@ -6,7 +6,7 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
 <p align="left">
     Gosto de resolver desafios usando tecnologia tanto no backend utilizando Java + Spring :heart: quanto no front com React, HTML e CSS :blue_heart:<br />
     formado em Sistemas de Informação pela Universidade Católica (UCB).<br />
-    Estou sempre buscando me aprimorar, seja: criando um projeto, assistindo a um vídeo ou até mesmo lendo um livro. <br />
+    Estou sempre buscando me aprimorar, seja: criando um projeto, assistindo a um vídeo ou mesmo lendo um livro. <br />
     <div align="left">
         Estar atualizado <i>é o mesmo que me sentir vivo e por essa personalidade foi um match que descobrir com TI</i>.
     </div>
@@ -71,7 +71,7 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
 
 ## Connect with me!
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00dcf2&color:FFF)](mailto:jefferson.crn@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=cc1d1d&color:FFF)](mailto:jefferson.crn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0e53f0&color:FFF)](https://www.linkedin.com/in/caelestis/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/jeffersoncaelestis/)
 
