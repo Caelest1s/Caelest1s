@@ -1,9 +1,10 @@
-## Oi, que bom te ver por aqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"/><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=b0196d&random=false&width=435&height=40&lines=Oi+que+bom+te+ve+por+aqui!)](https://git.io/typing-svg)
 
-#### Eu sou o <strong>Jefferson</strong><br>
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/> aceno de mão -->
+### Eu sou o <strong>Jefferson</strong>  <br>
 #### Gosto de resolver desafios usando tecnologia
 #### no backend utilizando <strong>Java + Spring</strong> :heart:
-#### ao front com <strong> React, HTML e CSS</strong>
+#### ao front com <strong> React, HTML e CSS</strong> :blue_heart:
 <br/>
 <div align="center" style="margin-bottom:500px">
     <img width=50% heigth=30 align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&show_icons=true&theme=ambient_gradient" />
