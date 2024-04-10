@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=b0196d&random=false&width=435&height=40&lines=Oi+que+bom+te+ve+por+aqui!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=b0196d&random=false&width=435&height=40&lines=Oi%2C+que+bom+te+v%C3%AA+por+aqui!)](https://git.io/typing-svg)
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/> aceno de mão -->
 ### Eu sou o <strong>Jefferson</strong>  <br>
