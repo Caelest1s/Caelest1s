@@ -1,15 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=b0196d&random=false&width=435&height=40&lines=Oi%2C+que+bom+te+v%C3%AA+por+aqui!)](https://git.io/typing-svg)
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"/> aceno de mão -->
-#### Eu sou o <strong>Jefferson</strong>
-#### Gosto de resolver desafios usando tecnologia
-#### no backend utilizando <strong>Java + Spring</strong> :heart:
-#### ao front com <strong> React, HTML e CSS</strong> :blue_heart:
-<br/>
+Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
+
+<p align="left">
+    Gosto de resolver desafios usando tecnologia tanto no backend utilizando Java + Spring :heart: quanto no front com React, HTML e CSS :blue_heart:<br />
+    formado em Sistemas de Informação pela Universidade Católica (UCB).<br />
+    Estou sempre buscando me aprimorar, seja: criando um projeto, assistindo a um vídeo ou até mesmo lendo um livro. <br />
+    <div align="left">
+        Estar atualizado <i>é o mesmo que me sentir vivo e por essa personalidade foi um match instantâneo que descobrir com TI</i>.
+    </div>
+</p>
+
 <div align="left">
-    <img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&show_icons=true&theme=ambient_gradient" />
-    <img width=400px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caelest1s&layout=compact&langs_count=8&card_width=320&theme=outrun" />
-    <img width=500px align="center" src="https://github-readme-streak-stats.herokuapp.com?user=caelest1s&mode=weekly&theme=ambient_gradient" />
+    <img width=400px align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&show_icons=true&theme=ambient_gradient" />
+    <img width=330px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caelest1s&layout=compact&langs_count=8&card_width=320&theme=outrun" />
+    <img width=400px align="center" src="https://github-readme-streak-stats.herokuapp.com?user=caelest1s&mode=weekly&theme=ambient_gradient" />
 </div>
 
 ## My Skills
@@ -18,7 +24,7 @@
 
 <!-- (link icons) https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg -->
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  onClick="false"/>
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
     <img width="8" />
