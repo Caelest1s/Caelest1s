@@ -6,7 +6,7 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
 <p align="left">
     Gosto de resolver desafios usando tecnologia tanto no backend utilizando Java + Spring :heart: quanto no front com React, HTML e CSS :blue_heart:<br />
     formado em Sistemas de Informação pela Universidade Católica (UCB).<br />
-    Estou sempre buscando me aprimorar, seja: criando/colaborando para um projeto, certificações ou até a leitura de um livro sobre o assunto. <br />
+    Estou sempre buscando me aprimorar, seja: criando/colaborando para um projeto, certificações ou até a leitura de um livro sobre determinado assunto. <br />
     <div align="left">
         <i>Estar me atualizando é o mesmo que me sentir vivo e por isso foi um match/ link com TI</i>.
     </div>
