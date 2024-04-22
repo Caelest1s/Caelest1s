@@ -13,9 +13,9 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
 </p>
 
 <div align="left">
-    <img width=400px align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&show_icons=true&theme=midnight-purple" />
-    <img width=420px align="center" src="https://github-readme-streak-stats.herokuapp.com?user=caelest1s&mode=weekly&theme=midnight-purple" />
-    <img width=400px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caelest1s&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+    <img width=400px align="center" src="https://github-readme-stats.vercel.app/api?username=caelest1s&show_icons=true&theme=radical" />
+    <img width=420px align="center" src="https://github-readme-streak-stats.herokuapp.com?user=caelest1s&mode=weekly&theme=radical" />
+    <img width=400px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caelest1s&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </div>
 
 ## My Skills
