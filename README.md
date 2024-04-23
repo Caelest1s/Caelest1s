@@ -50,9 +50,13 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
 #### Studying in this moment
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=25px alt="typescript logo"  />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=25px alt="javascript logo"  />
+    <img width="8" />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cypressio/cypressio-original.svg" height=25px alt="cypress"/>
+    <img width="8" />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" height=25px alt="jest" />
     <img width="8" />
 </div>
 
