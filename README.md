@@ -24,15 +24,15 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
 
 <!-- (link icons) https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg -->
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  onClick="false"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" title="Java"/>
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo" title="Springboot" >
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" title="React" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  title="VS Code" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="25" alt="postman logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="25" alt="postman logo" title="Postman" />
     <img width="8" />
 </div>
 
@@ -41,22 +41,22 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
 #### Databases
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  title="PostgreSQL" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  title="MySQL" />
     <img width="8" />
 </div>
 
 #### Studying in this moment
 
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=25px alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=25px alt="typescript logo"  title="Typescript" />
     <img width="8" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=25px alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=25px alt="javascript logo"  title="Javascript" />
     <img width="8" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cypressio/cypressio-original.svg" height=25px alt="cypress"/>
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cypressio/cypressio-original.svg" height=25px alt="cypress" title="Cypress"/>
     <img width="8" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" height=25px alt="jest" />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" height=25px alt="jest logo" title="Jest" />
     <img width="8" />
 </div>
 
