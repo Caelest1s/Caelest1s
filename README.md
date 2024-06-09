@@ -4,7 +4,7 @@
 Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
 
 <p align="left">
-    Gosto de resolver desafios usando tecnologia tanto no backend utilizando Java + Spring :heart: quanto no front com React, HTML e CSS :blue_heart:<br />
+    Gosto de resolver desafios usando tecnologia tanto no backend utilizando Java + Spring quanto no front com React, Javascript, HTML e CSS<br />
     formado em Sistemas de Informação pela Universidade Católica (UCB).<br />
     Estou sempre em busca de me aprimorar, seja: criando/colaborando para um projeto, certificações ou até a leitura sobre determinado assunto. <br />
     <div align="left">
@@ -54,10 +54,10 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height=25px alt="javascript logo"  title="Javascript" />
     <img width="8" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cypressio/cypressio-original.svg" height=25px alt="cypress" title="Cypress"/>
+    <!-- <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cypressio/cypressio-original.svg" height=25px alt="cypress" title="Cypress"/> 
     <img width="8" />
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" height=25px alt="jest logo" title="Jest" />
-    <img width="8" />
+    <img width="8" /> -->
 </div>
 
 #### Repository
