@@ -49,9 +49,9 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
     <img width="8" />
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height=25px alt="javascript logo" title="Javascript" />
     <img width="8" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height=25px alt="html logo" title="HTML 5"/> 
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height=25px alt="html-5 logo" title="HTML 5"/> 
     <img width="8" />
-    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height=25px alt="css logo" title="CSS 3" />
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height=25px alt="css-3 logo" title="CSS 3" />
     <img width="8" />
 </div>
 
@@ -60,6 +60,10 @@ Eu sou o <strong>Jefferson</strong> e aqui vai um pouco sobre mim...
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="25" alt="postman logo" title="Postman" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="25" alt="ubuntu logo" title="Ubuntu" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" height="25" alt="openai logo"  title="OpenAI" />
+    <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="25" alt="swagger logo"  title="Swagger" />
     <img width="8" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="25" alt="intellij logo"  title="IntelliJ" />
     <img width="8" />
